@@ -25,6 +25,6 @@ main>.container {
     color: rgb(195, 255, 0);
 }
 
-minHeight{
+.minHeight{
     min-height: 80vh;
 }
